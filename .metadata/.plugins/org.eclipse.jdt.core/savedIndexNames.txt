@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\clayton.oliveira\Documents\Certificações\Backend Java Microservicos\microservicos\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+645209528.index
+2463074994.index
